@@ -1,12 +1,7 @@
 ## load-disaggregation-using-machine-learning
+![App Screenshot](https://th.bing.com/th/id/OIP.Zl_hi962EkdFKpdzEnOLiAHaJC?pid=ImgDet&rs=1)
 
 
-
-
-![App Screenshot](https://www.tipmont.org/images/saveenergy/home-energy-use.png)
-
-
-![App Screenshot](https://www.tipmont.org/images/saveenergy/home-energy-use.png)
 
  # About
 1. This is a Course Project done in under the Guidance of Prof. Zakir Rather Hussain in the Energy Systems Course (EN-304).
