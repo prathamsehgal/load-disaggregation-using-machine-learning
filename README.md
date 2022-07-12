@@ -19,8 +19,8 @@
 # PROJECT SUMMARY
 1. Studied in detail the load disaggregation and its importance 
 2. Survey the existing techniques for load disaggregation in the literature 
-3. Implemented a deep learning model for load disaggregation of various household appliances and compared results with other machine learning techniques
-4. Achieved a accuracy of 94.3% using multi layer perceptron regression model
+3. Implemented ML/deep learning model for load disaggregation of various household appliances and compared results with other machine learning techniques
+4. Achieved test R2score of 0.63  with ExtraTrees Regressor Machine Learning Algorithm.
 
 # Conclusion
 1. The best Algorithm to use for this dataset Extra Trees Regressor
@@ -31,4 +31,4 @@
 
 4. The final model had 22 features
 
-5. Feature reduction was not able to add to better R2 score
+5. Feature reduction was not able to add to better R2 score.The main reason could be availability of lesser data for the prediction after feature reduction.
