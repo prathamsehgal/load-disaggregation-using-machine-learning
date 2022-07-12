@@ -5,13 +5,13 @@
 
  # About
 1. This is a Course Project done in under the Guidance of Prof. Zakir Rather Hussain in the Energy Systems Course (EN-304) IIT BOMBAY.
-Course Intstructor:-Zakir Hussain Rather(Professor at IIT Bombay)
-Project Mentor:-Dhiraj Khadka(PHD Student at IIT Bombay)
-2. Developed and implemented a Machine Learning Model as a member of three-person team. 
+2. Course Intstructor:-Zakir Hussain Rather(Professor at IIT Bombay)
+3. Project Mentor:-Dhiraj Khadka(PHD Student at IIT Bombay)
+4. Developed and implemented a Machine Learning Model as a member of three-person team. 
 
 
 # Observations
-1. Based on parameter tunning step we can see that
+  Based on parameter tunning step we can see that ---
 
 2. 5 most important features are - 'RH_out', 'RH_8', 'RH_1', 'T3', 'RH_3'
 3. 5 least important features are - 'T7','Tdewpoint','Windspeed','T1','T5'
