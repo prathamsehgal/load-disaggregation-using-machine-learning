@@ -4,7 +4,9 @@
 
 
  # About
-1. This is a Course Project done in under the Guidance of Prof. Zakir Rather Hussain in the Energy Systems Course (EN-304).
+1. This is a Course Project done in under the Guidance of Prof. Zakir Rather Hussain in the Energy Systems Course (EN-304) IIT BOMBAY.
+Course Intstructor:-Zakir Hussain Rather(Professor at IIT Bombay)
+Project Mentor:-Dhiraj Khadka(PHD Student at IIT Bombay)
 2. Developed and implemented a Machine Learning Model as a member of three-person team. 
 
 
